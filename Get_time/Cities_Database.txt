@@ -1,0 +1,1295 @@
+Aalborg					GMT+01:00				CET
+Abbotsford    			GMT-08:00				PST
+Aberdeen				GMT+00:00				GMT
+Abidjan					GMT+00:00				GMT
+Abu Dhabi				GMT+04:00				GST
+Abuja					GMT+01:00				WAT
+Acapulco				GMT-06:00				CST
+Accra					GMT+00:00				GMT
+Adak					GMT-10:00				HAST
+Addis Ababa				GMT+03:00				EAT
+Adelaide				GMT+09:30				ACST
+Aden					GMT+03:00				AST
+Agra					GMT+05:30				IST
+Ahmedabad				GMT+05:30				IST
+Akita					GMT+09:00				JST
+Aklavik    				GMT-07:00				MST
+Akron    				GMT-05:00				EST
+Akumal					GMT-06:00				CST
+Al Ahsa					GMT+03:00				AST
+Al Ain					GMT+04:00				GST
+Al Bayda				GMT+03:00				AST
+Al Hudaydah				GMT+03:00				AST
+Al Jahra				GMT+03:00				AST
+Alacati					GMT+02:00				EET
+Alajuela				GMT-06:00				CST
+Albany					GMT-05:00				EST
+Albena					GMT+02:00				EET
+Albuquerque				GMT-07:00				MST
+Albury					GMT+10:00				AEST
+Alert    				GMT-05:00				EST
+Alexandria				GMT+02:00				EET
+Algiers					GMT+01:00				WAT
+Alicante				GMT+01:00				CET
+Alice Springs			GMT+09:30				ACST
+Almaty					GMT+06:00				ALMT
+Almeria					GMT+01:00				CET
+Alofi					GMT-11:00				NUT
+Alupka					GMT+02:00				EET
+Ambato					GMT-05:00				PET
+Ambon					GMT+09:00				JST
+Amersfoort				GMT+01:00				WEST
+Amherst    				GMT-04:00				AST
+Amiens					GMT+01:00				CET
+Amman					GMT+03:00				AST
+Amritsar				GMT+05:30				IST
+Amsterdam				GMT+01:00				WEST
+Anadyr					GMT+12:00				ANAT
+Anapa					GMT+04:00				MSK
+Anchorage				GMT-09:00				AKST
+Ancona					GMT+01:00				WEST
+Andorra la Vella		GMT+01:00				CET
+Ankara					GMT+02:00				EET
+Annapolis				GMT-05:00				EST
+Anshan					GMT+08:00				CST
+Antananarivo			GMT+03:00				EAT
+Antigua					GMT-06:00				AST
+Antwerp					GMT+01:00				CET
+Apia					GMT-13:00				WST
+Aqaba					GMT+03:00				AST
+Arad					GMT+02:00				EET
+Arequipa				GMT-05:00				PET
+Arica					GMT-04:00				CLT
+Arkhangelsk				GMT+04:00				MSK
+Arklow					GMT+00:00				GMT
+Armstrong    			GMT-08:00				PST
+Arraial do Cabo			GMT-03:00				BRST
+Arzamas					GMT+04:00				MSK
+Ashkelon				GMT+02:00				IST
+Ashkhabad				GMT+05:00				TMT
+Ashland					GMT-08:00				PST
+Asmara					GMT+03:00				AST
+Astana					GMT+06:00				ALMT
+Asuncion				GMT-04:00				PYT
+Athens					GMT+02:00				EET
+Atlanta    				GMT-05:00				EST
+Auckland				GMT+12:00				NZST
+Augusta    				GMT-05:00				EST
+Aurangabad				GMT+05:30				IST
+Austin    				GMT-06:00				CST
+Avarua					GMT-10:00				HST
+Aveiro					GMT+00:00				GMT
+Aylesbury				GMT+00:00				GMT
+Az Zarqa				GMT+03:00				AST
+Bacau					GMT+02:00				EET
+Bacolod					GMT+08:00				SST
+Badajoz					GMT+01:00				CET
+Baden-Baden				GMT+01:00				WEST
+Baghdad					GMT+03:00				AST
+Bahawalpur				GMT+05:00				PKT
+Bahia Blanca			GMT-03:00				ART
+Bahia Kino				GMT-07:00				MST
+Baku					GMT+04:00				AZT
+Balabag					GMT+08:00				SST
+Balanga					GMT+08:00				SST
+Balikpapan				GMT+08:00				SST
+Balti					GMT+02:00				EET
+Baltimore    			GMT-05:00				EST
+Bamako					GMT+00:00				GMT
+Bandar Seri Begawan		GMT+08:00				SST
+Bandarban				GMT+06:00				BST
+Bandung					GMT+07:00				ICT
+Banff    				GMT-07:00				MST
+Bangalore				GMT+05:30				IST
+Bangkok					GMT+07:00				ICT
+Bangui					GMT+01:00				WAT
+Banja Luka				GMT+01:00				CET
+Banjul					GMT+00:00				GMT
+Baotou					GMT+08:00				CST
+Barcelona				GMT+01:00				WEST
+Barcelona				GMT-04:30				VET
+Bareilly				GMT+05:30				IST
+Bari					GMT+01:00				WEST
+Barrie    				GMT-05:00				EST
+Basse-Terre				GMT-04:00				AST
+Basseterre				GMT-04:00				AST
+Baton Rouge    			GMT-06:00				CST
+Beijing					GMT+08:00				CST
+Beirut					GMT+02:00				EET
+Beja					GMT+00:00				GMT
+Belfast					GMT+00:00				GMT
+Belgorod				GMT+04:00				MSK
+Belgrade				GMT+01:00				CET
+Belize City				GMT-06:00				CST
+Bellevue    			GMT-08:00				PST
+Belmopan				GMT-06:00				CST
+Belo Horizonte			GMT-03:00				BRST
+Belogradchik			GMT+02:00				EET
+Benevento				GMT+01:00				WEST
+Benxi					GMT+08:00				CST
+Bergen					GMT+01:00				WEST
+Berlin					GMT+01:00				WEST
+Bern					GMT+01:00				WEST
+Beziers					GMT+01:00				CET
+Bhopal					GMT+05:30				IST
+Bhubaneswar				GMT+05:30				IST
+Bilbao					GMT+01:00				CET
+Billings    			GMT-07:00				MST
+Biratchowk				GMT+05:45				NPT
+Birmingham				GMT+00:00				GMT
+Birmingham    			GMT-06:00				CST
+Bishkek					GMT+06:00				ALMT
+Bismarck    			GMT-06:00				CST
+Bissau					GMT+00:00				GMT
+Blanes					GMT+01:00				CET
+Blantyre				GMT+02:00				SAST
+Blantyre-Hamilton		GMT+00:00				GMT
+Bloemfontein			GMT+02:00				SAST
+Bodrum					GMT+02:00				EET
+Bogota					GMT-05:00				PET
+Boise    				GMT-07:00				MST
+Bologna					GMT+01:00				WEST
+Bonn					GMT+01:00				WEST
+Bordeaux				GMT+01:00				CET
+Boston    				GMT-05:00				EST
+Braganca				GMT+00:00				GMT
+Brasilia				GMT-03:00				BRST
+Bratislava				GMT+01:00				CET
+Brazzaville				GMT+01:00				WAT
+Bremen					GMT+01:00				WEST
+Brest					GMT+01:00				CET
+Bridgetown				GMT-04:00				AST
+Brindisi				GMT+01:00				WEST
+Brisbane				GMT+10:00				AEST
+Bristol					GMT+00:00				GMT
+Brno					GMT+01:00				CET
+Brussels				GMT+01:00				CET
+Bucharest				GMT+02:00				EET
+Budapest				GMT+01:00				CET
+Buenos Aires			GMT-03:00				ART
+Buffalo    				GMT-05:00				EST
+Bujumbura				GMT+02:00				SAST
+Burgos					GMT+01:00				CET
+Buri Ram				GMT+07:00				ICT
+Burnaby    				GMT-08:00				PST
+Bursa					GMT+02:00				EET
+Busan					GMT+09:00				KST
+Butterworth				GMT+08:00				SST
+Cabo San Lucas			GMT-07:00				CST
+Cairns					GMT+10:00				AEST
+Cairo					GMT+02:00				EET
+Calabar					GMT+01:00				WAT
+Calgary    				GMT-07:00				MST
+Campinas				GMT-03:00				BRST
+Canberra				GMT+10:00				AEST
+Cancun					GMT-06:00				CST
+Canmore    				GMT-07:00				MST
+Cannes					GMT+01:00				CET
+Cannon Beach			GMT-08:00				PST
+Cape Town				GMT+02:00				SAST
+Capitola      			GMT-08:00				PST
+Caracas					GMT-04:30				VET
+Carcassonne				GMT+01:00				CET
+Cardiff					GMT+00:00				GMT
+Carson City				GMT-08:00				PST
+Cartagena				GMT+01:00				CET
+Casablanca				GMT+00:00				WET
+Castelo Branco			GMT+00:00				GMT
+Castlebar				GMT+00:00				GMT
+Castries				GMT-04:00				AST
+Catamarca				GMT-03:00				ART
+Catania					GMT+01:00				WEST
+Catarman				GMT+08:00				SST
+Cayenne					GMT-03:00				ART
+Cebu					GMT+08:00				SST
+Champaign				GMT-06:00				CST
+Chandigarh				GMT+05:30				IST
+Chandler    			GMT-07:00				MST
+Changchun				GMT+08:00				CST
+Chania					GMT+02:00				EET
+Chantilly    			GMT-05:00				EST
+Charleston    			GMT-05:00				EST
+Charlotte Amalie		GMT-04:00				AST
+Charlotte    			GMT-05:00				EST
+Charlottetown    		GMT-04:00				AST
+Chattanooga    			GMT-05:00				EST
+Chelyabinsk				GMT+06:00				YEKT
+Chengdu					GMT+08:00				CST
+Chennai					GMT+05:30				IST
+Cherepovets				GMT+04:00				MSK
+Chernobyl				GMT+02:00				EET
+Cheruvathur				GMT+05:30				IST
+Chiang Mai				GMT+07:00				ICT
+Chicago    				GMT-06:00				CST
+Chichen Itza			GMT-06:00				CST
+Chihuahua				GMT-07:00				CST
+Chimoio					GMT+02:00				SAST
+Chinandega				GMT-06:00				CST
+Chirala					GMT+05:30				IST
+Chisinau				GMT+02:00				EET
+Chita					GMT+10:00				YAKT
+Chittagong				GMT+06:00				BST
+Chongqing				GMT+08:00				CST
+Christchurch			GMT+12:00				NZST
+Cienfuegos				GMT-05:00				CST
+Cincinnati    			GMT-05:00				EST
+Ciudad Acuna			GMT-06:00				CST
+Ciudad Juarez			GMT-07:00				MST
+Cleveland    			GMT-05:00				EST
+Cluj					GMT+02:00				EET
+Cockburn Town			GMT-05:00				EST
+Coimbatore				GMT+05:30				IST
+Collioure				GMT+01:00				CET
+Cologne					GMT+01:00				WEST
+Colombo					GMT+05:30				IST
+Colorado Springs    	GMT-07:00				MST
+Columbia    			GMT-05:00				EST
+Columbus    			GMT-05:00				EST
+Columbus    			GMT-05:00				EST
+Conakry					GMT+00:00				GMT
+Constanta				GMT+02:00				EET
+Coos Bay				GMT-08:00				PST
+Copenhagen				GMT+01:00				CET
+Coquille				GMT-08:00				PST
+Cordoba					GMT-03:00				ART
+Corfu					GMT+02:00				EET
+Cork					GMT+00:00				GMT
+Corrientes				GMT-03:00				ART
+Costa Rica				GMT-06:00				CST
+Cotonou					GMT+01:00				WAT
+Cox's Bazar				GMT+06:00				BST
+Craiova					GMT+02:00				EET
+Cranbrook    			GMT-07:00				MST
+Cuenca					GMT-05:00				PET
+Cuiaba					GMT-04:00				AMST
+Culiacan				GMT-07:00				CST
+Cupertino          		GMT-08:00				PST
+Curitiba				GMT-03:00				BRST
+Da Nang					GMT+07:00				ICT
+Daegu					GMT+09:00				KST
+Dakar					GMT+00:00				GMT
+Dakhla					GMT+00:00				WET
+Dalian					GMT+08:00				CST
+Dallas    				GMT-06:00				CST
+Damascus				GMT+02:00				EET
+Damauli					GMT+05:45				NPT
+Dambulla				GMT+05:30				IST
+Dampier					GMT+08:00				AEST
+Dandong					GMT+08:00				CST
+Dar es Salaam			GMT+03:00				EAT
+Darasuram				GMT+05:30				IST
+Darwin					GMT+09:30				ACST
+Dausa					GMT+05:30				IST
+Davao					GMT+08:00				SST
+Dayton    				GMT-05:00				EST
+Del Rio    				GMT-06:00				CST
+Delhi					GMT+05:30				IST
+Denpasar				GMT+08:00				SST
+Denver    				GMT-07:00				MST
+Des Moines    			GMT-06:00				CST
+Detroit    				GMT-05:00				EST
+Dhahran					GMT+03:00				AST
+Dhaka					GMT+06:00				BST
+Dhamar					GMT+03:00				AST
+Dharan					GMT+05:45				NPT
+Dieppe					GMT+01:00				CET
+Diffa					GMT+01:00				WAT
+Dili					GMT+09:00				KST
+Djember					GMT+07:00				ICT
+Djibouti				GMT+03:00				AST
+Dnepropetrovsk			GMT+02:00				EET
+Dodoma					GMT+03:00				EAT
+Doha					GMT+03:00				AST
+Donauworth				GMT+01:00				WEST
+Donetsk					GMT+02:00				EET
+Doolin					GMT+00:00				GMT
+Douala					GMT+01:00				WAT
+Dover					GMT+00:00				GMT
+Dresden					GMT+01:00				WEST
+Drogheda				GMT+00:00				GMT
+DuPont    				GMT-08:00				PST
+Dubai					GMT+04:00				GST
+Dublin					GMT+00:00				GMT
+Dublin    				GMT-05:00				EST
+Duesseldorf				GMT+01:00				WEST
+Dumaguete				GMT+08:00				SST
+Dundee					GMT+00:00				GMT
+Dunedin					GMT+12:00				NZST
+Dunkerque				GMT+01:00				CET
+Durban					GMT+02:00				SAST
+Durres					GMT+01:00				WEST
+Dushanbe				GMT+05:00				TMT
+Duvall    				GMT-08:00				PST
+Dzerzhinsk				GMT+04:00				MSK
+East London				GMT+02:00				SAST
+Edinburgh				GMT+00:00				GMT
+Edmonton    			GMT-07:00				MST
+Eindhoven				GMT+01:00				WEST
+Ekaterinburg			GMT+06:00				YEKT
+El Paso    				GMT-07:00				MST
+Ende					GMT+08:00				SST
+Ensenada				GMT-08:00				PST
+Esfahan					GMT+03:30				IRST
+Essen					GMT+01:00				WEST
+Etterbeek				GMT+01:00				CET
+Eugene					GMT-08:00				PST
+Ezcaray					GMT+01:00				CET
+Fairbanks				GMT-09:00				AKST
+Falmouth				GMT+00:00				GMT
+Faro					GMT+00:00				GMT
+Flic en Flac			GMT+04:00				MUT
+Florence				GMT+01:00				WEST
+Florence				GMT-08:00				PST
+Floro					GMT+01:00				WEST
+Folcroft    			GMT-05:00				EST
+Folsom           		GMT-08:00				PST
+Fontainebleau			GMT+01:00				CET
+Fort Defiance    		GMT-07:00				MST
+Fort Worth    			GMT-06:00				CST
+Fort-de-France			GMT-04:00				AST
+Fortaleza				GMT-03:00				ART
+Foshan					GMT+08:00				CST
+Foster City          	GMT-08:00				PST
+Foxton					GMT+12:00				NZST
+Fragneto Monforte		GMT+01:00				WEST
+Frankfurt				GMT+01:00				WEST
+Freetown				GMT+00:00				GMT
+Fremont           		GMT-08:00				PST
+Ft. Lauderdale    		GMT-05:00				EST
+Fujairah				GMT+04:00				GST
+Fukui					GMT+09:00				JST
+Fukuoka					GMT+09:00				JST
+Funafuti				GMT+12:00				TVT
+Fuzhou					GMT+08:00				CST
+Gaborone				GMT+02:00				SAST
+Galesburg    			GMT-06:00				CST
+Galle					GMT+05:30				IST
+Galway					GMT+00:00				GMT
+Gary					GMT-06:00				CST
+Gatton					GMT+10:00				AEST
+Gavle					GMT+01:00				WEST
+Gaya					GMT+05:30				IST
+Gdansk					GMT+01:00				CET
+Gelendzhik				GMT+04:00				MSK
+Geneva					GMT+01:00				WEST
+Genoa					GMT+01:00				WEST
+Gent					GMT+01:00				CET
+George Town				GMT-05:00				PET
+George Town				GMT+08:00				SST
+Georgetown				GMT-04:00				AST
+Ghatgaon				GMT+05:30				IST
+Ghumli					GMT+05:30				IST
+Gibraltar				GMT+01:00				CET
+Gig Harbor    			GMT-08:00				PST
+Girona					GMT+01:00				CET
+Giurgiu					GMT+02:00				EET
+Gladstone				GMT+10:00				AEST
+Glasgow					GMT+00:00				GMT
+Gloucester				GMT+00:00				GMT
+Golden    				GMT-07:00				MST
+Golra Sharif			GMT+05:00				PKT
+Gosford					GMT+10:00				AEST
+Gothenburg				GMT+01:00				WEST
+Grafton					GMT+10:00				AEST
+Granada					GMT+01:00				CET
+Granada					GMT-06:00				CST
+Grand Rapids    		GMT-05:00				EST
+Grand-Bassam			GMT+00:00				GMT
+Grasse					GMT+01:00				CET
+Gratkorn				GMT+01:00				WEST
+Graz					GMT+01:00				WEST
+Great Falls    			GMT-07:00				MST
+Grenoble				GMT+01:00				CET
+Guadalajara				GMT-06:00				CST
+Guangzhou				GMT+08:00				CST
+Guatemala City			GMT-06:00				AST
+Guayaquil				GMT-05:00				PET
+Guaymas					GMT-07:00				MST
+Guelph    				GMT-05:00				EST
+Gulbarga				GMT+05:30				IST
+Gyor					GMT+01:00				CET
+Gyumri					GMT+04:00				AMT
+Hagatna					GMT+10:00				ChST
+Hai Phong				GMT+07:00				ICT
+Haifa					GMT+02:00				IST
+Halab					GMT+02:00				EET
+Halifax    				GMT-04:00				AST
+Halle					GMT+01:00				CET
+Hama					GMT+02:00				EET
+Hamburg					GMT+01:00				WEST
+Hamilton				GMT-04:00				AST
+Hamilton    			GMT-05:00				EST
+Hammerfest				GMT+01:00				WEST
+Hanamkonda				GMT+05:30				IST
+Hangzhou				GMT+08:00				CST
+Hanjiang				GMT+08:00				CST
+Hannover				GMT+01:00				WEST
+Hanoi					GMT+07:00				ICT
+Harare					GMT+02:00				SAST
+Harbin					GMT+08:00				CST
+Harstad					GMT+01:00				WEST
+Hassan					GMT+05:30				IST
+Hastings				GMT+12:00				NZST
+Hat Yai					GMT+07:00				ICT
+Havana					GMT-05:00				CST
+Heerlen					GMT+01:00				WEST
+Helena    				GMT-07:00				MST
+Helsingborg				GMT+01:00				WEST
+Helsingor				GMT+01:00				CET
+Helsinki				GMT+02:00				EET
+Heredia					GMT-06:00				CST
+Hermosillo				GMT-07:00				MST
+Hikkaduwa				GMT+05:30				IST
+Hillsboro				GMT-08:00				PST
+Hilo    				GMT-10:00				HST
+Hiroshima				GMT+09:00				JST
+Ho Chi Minh				GMT+07:00				ICT
+Hobart					GMT+10:00				AEDT
+Hohhot					GMT+08:00				CST
+Homagama				GMT+05:30				IST
+Hong Kong				GMT+08:00				CST
+Honiara					GMT+11:00				SBT
+Honolulu    			GMT-10:00				HST
+Hope    				GMT-08:00				PST
+Hora Sfakion			GMT+02:00				EET
+Horsens					GMT+01:00				CET
+Hostalric				GMT+01:00				CET
+Houston    				GMT-06:00				CST
+Hua Hin					GMT+07:00				ICT
+Hubli					GMT+05:30				IST
+Hudson    				GMT-05:00				EST
+Huelva					GMT+01:00				CET
+Huizhou					GMT+08:00				CST
+Huntingdon    			GMT-05:00				EST
+Huntington    			GMT-05:00				EST
+Hyderabad				GMT+05:30				IST
+Iasi					GMT+02:00				EET
+Ibadan					GMT+01:00				WAT
+Ibb						GMT+03:00				AST
+Igoumenitsa				GMT+02:00				EET
+Iligan					GMT+08:00				SST
+Indianapolis    		GMT-05:00				EST
+Inuvik    				GMT-07:00				MST
+Iqaluit    				GMT-05:00				EST
+Iraklion				GMT+02:00				EET
+Irkutsk					GMT+09:00				IRKT
+Irvine          		GMT-08:00				PST
+Islamabad				GMT+05:00				PKT
+Istanbul				GMT+02:00				EET
+Itahari					GMT+05:45				NPT
+Ivalo					GMT+02:00				EET
+Ivanovo					GMT+04:00				MSK
+Ixtapa					GMT-06:00				CST
+Izhevsk					GMT+04:00				MSK
+Izmir					GMT+02:00				EET
+Jackson    				GMT-06:00				CST
+Jacksonville    		GMT-05:00				EST
+Jacobabad				GMT+05:00				PKT
+Jaen					GMT+01:00				CET
+Jaipur					GMT+05:30				IST
+Jakarta					GMT+07:00				ICT
+Jamestown				GMT+00:00				GMT
+Jammu					GMT+05:30				IST
+Jamshedpur				GMT+05:30				IST
+Jasper    				GMT-07:00				MST
+Jeddah					GMT+03:00				AST
+Jefferson City    		GMT-06:00				CST
+Jersey City    			GMT-05:00				EST
+Jerusalem				GMT+02:00				IST
+Jeypore					GMT+05:30				IST
+Jilin					GMT+08:00				CST
+Jinan					GMT+08:00				CST
+Jinzhou					GMT+08:00				CST
+Joao Pessoa				GMT-03:00				ART
+Johannesburg			GMT+02:00				SAST
+Juba					GMT+03:00				EAT
+Jujuy					GMT-03:00				ART
+Kabardinka				GMT+04:00				MSK
+Kabul					GMT+04:30				AFT
+Kaduna					GMT+01:00				WAT
+Kagoshima				GMT+09:00				JST
+Kaikoura				GMT+12:00				NZST
+Kaliningrad				GMT+03:00				EEST
+Kalmar					GMT+01:00				WEST
+Kalutara				GMT+05:30				IST
+Kamloops    			GMT-08:00				PST
+Kampala					GMT+03:00				EAT
+Kandahar				GMT+04:30				AFT
+Kandy					GMT+05:30				IST
+Kanpur					GMT+05:30				IST
+Kansas City    			GMT-06:00				CST
+Kanyakumari				GMT+05:30				IST
+Karachi					GMT+05:00				PKT
+Karlovy Vary			GMT+01:00				CET
+Karlstad				GMT+01:00				WEST
+Kasaragod				GMT+05:30				IST
+Kasauli					GMT+05:30				IST
+Kathmandu				GMT+05:45				NPT
+Kaunas					GMT+02:00				EET
+Kawasaki				GMT+09:00				JST
+Kazan					GMT+04:00				MSK
+Keel					GMT+00:00				GMT
+Kelowna    				GMT-08:00				PST
+Kemerovo				GMT+07:00				NOVT
+Kendari					GMT+08:00				SST
+Kerikeri				GMT+12:00				NZST
+Khabarovsk				GMT+11:00				VLAT
+Kharkov					GMT+02:00				EET
+Khartoum				GMT+03:00				EAT
+Kiel					GMT+01:00				WEST
+Kiev					GMT+02:00				EET
+Kigali					GMT+02:00				SAST
+Killarney				GMT+00:00				GMT
+Kimberley				GMT+02:00				SAST
+Kingston				GMT-05:00				PET
+Kingston    			GMT-05:00				EST
+Kingstown				GMT-04:00				AST
+Kinshasa				GMT+01:00				WAT
+Kiruna					GMT+01:00				WEST
+Kitchener    			GMT-05:00				EST
+Knysna					GMT+02:00				SAST
+Kochi					GMT+05:30				IST
+Kodaikanal				GMT+05:30				IST
+Kolhapur				GMT+05:30				IST
+Kolkata					GMT+05:30				IST
+Koloa    				GMT-10:00				HST
+Kolobrzeg				GMT+01:00				CET
+Kolomna					GMT+04:00				MSK
+Kolonia					GMT+11:00				PONT
+Konark					GMT+05:30				IST
+Kone					GMT+11:00				NCT
+Konin					GMT+01:00				CET
+Koror					GMT+09:00				JST
+Kos						GMT+02:00				EET
+Kosciusko    			GMT-06:00				CST
+Kostroma				GMT+04:00				MSK
+Kota Kinabalu			GMT+08:00				SST
+Kotka					GMT+02:00				EET
+Kotor					GMT+01:00				CET
+Kovrov					GMT+04:00				MSK
+Kowloon					GMT+08:00				CST
+Krakow					GMT+01:00				CET
+Krasnoyarsk				GMT+08:00				KRAT
+Kristianstad			GMT+01:00				WEST
+Kronstadt				GMT+04:00				MSK
+Kuala Lumpur			GMT+08:00				SST
+Kuching					GMT+08:00				SST
+Kulusuk					GMT-03:00				WGT
+Kumanovo				GMT+01:00				CET
+Kumbakonam				GMT+05:30				IST
+Kungur					GMT+06:00				YEKT
+Kunming					GMT+08:00				CST
+Kupang					GMT+08:00				SST
+Kurgan					GMT+06:00				YEKT
+Kursk					GMT+04:00				MSK
+Kurunegala				GMT+05:30				IST
+Kuwait					GMT+03:00				AST
+Kyaikto					GMT+06:30				MMT
+Kyoto					GMT+09:00				JST
+La Jolla           		GMT-08:00				PST
+La Libertad				GMT-06:00				CST
+La Paz					GMT-04:00				AST
+La Paz					GMT-07:00				CST
+La Rioja				GMT-03:00				ART
+La Union				GMT-06:00				CST
+Labuan					GMT+08:00				SST
+Lafayette				GMT-06:00				CST
+Lagos					GMT+01:00				WAT
+Lahore					GMT+05:00				PKT
+Lakeland				GMT-05:00				EST
+Lansing					GMT-05:00				EST
+Lanzhou					GMT+08:00				CST
+Las Varas				GMT-07:00				CST
+Las Vegas				GMT-08:00				PST
+Latakia					GMT+02:00				EET
+Launceston				GMT+10:00				AEDT
+Le Havre				GMT+01:00				CET
+Leeds					GMT+00:00				GMT
+Leicester				GMT+00:00				GMT
+Leipzig					GMT+01:00				WEST
+Leixlip					GMT+00:00				GMT
+Leon					GMT+01:00				CET
+Leon					GMT-06:00				CST
+Lexington				GMT-05:00				EST
+Libreville				GMT+01:00				WAT
+Lille					GMT+01:00				CET
+Lilongwe				GMT+02:00				SAST
+Lima					GMT-05:00				PET
+Limassol				GMT+02:00				EET
+Limerick				GMT+00:00				GMT
+Limoux					GMT+01:00				CET
+Lincoln					GMT-06:00				CST
+Linkoping				GMT+01:00				WEST
+Lipetsk					GMT+04:00				MSK
+Lisbon					GMT+00:00				GMT
+Lismore					GMT+10:00				AEST
+Little Rock				GMT-06:00				CST
+Liverpool				GMT+00:00				GMT
+Ljubljana				GMT+01:00				CET
+Lome					GMT+00:00				GMT
+London					GMT+00:00				GMT
+London					GMT-05:00				EST
+Long Beach    			GMT-08:00				PST
+Long Branch				GMT-05:00				EST
+Longyearbyen			GMT+01:00				WEST
+Los Angeles   			GMT-08:00				PST
+Los Mochis				GMT-07:00				CST
+Louisville				GMT-05:00				EST
+Luancheng				GMT+08:00				CST
+Luanda					GMT+01:00				WAT
+Lubbock					GMT-06:00				CST
+Luchegorsk				GMT+11:00				VLAT
+Lucknow					GMT+05:30				IST
+Lugano					GMT+01:00				WEST
+Lugansk					GMT+02:00				EET
+Lulea					GMT+01:00				WEST
+Lumbini					GMT+05:45				NPT
+Lund					GMT+01:00				WEST
+Lusaka					GMT+02:00				SAST
+Luxembourg				GMT+01:00				CET
+Luxor					GMT+02:00				EET
+Lviv					GMT+02:00				EET
+Lyon					GMT+01:00				CET
+Macapa					GMT-03:00				ART
+Macau					GMT+08:00				CST
+Mackay					GMT+10:00				AEST
+Madikeri				GMT+05:30				IST
+Madison					GMT-06:00				CST
+Madrid					GMT+01:00				CET
+Madurai					GMT+05:30				IST
+Magadan					GMT+12:00				ANAT
+Magdeburg				GMT+01:00				WEST
+Magnolia				GMT-06:00				CST
+Mahabalipuram			GMT+05:30				IST
+Mainz					GMT+01:00				WEST
+Majuro					GMT+12:00				TVT
+Makassar				GMT+08:00				SST
+Malabo					GMT+01:00				WAT
+Malaga					GMT+01:00				CET
+Male					GMT+05:00				TMT
+Malmo					GMT+01:00				WEST
+Mamoudzou				GMT+03:00				EAT
+Managua					GMT-06:00				CST
+Manama					GMT+03:00				AST
+Manaus					GMT-04:00				AST
+Manchester				GMT+00:00				GMT
+Mandalay				GMT+06:30				MMT
+Mandarmoni				GMT+05:30				IST
+Mandurah				GMT+08:00				AEST
+Mangalia				GMT+02:00				EET
+Mangalore				GMT+05:30				IST
+Manila					GMT+08:00				SST
+Manisa					GMT+02:00				EET
+Mannheim				GMT+01:00				WEST
+Manzanillo				GMT-05:00				CST
+Manzanillo				GMT-06:00				CST
+Maputo					GMT+02:00				SAST
+Maram Bazar				GMT+05:30				IST
+Marawi					GMT+08:00				SST
+Marmaris				GMT+02:00				EET
+Marrakech				GMT+00:00				WET
+Marseille				GMT+01:00				CET
+Masafi					GMT+04:00				GST
+Maseru					GMT+02:00				SAST
+Masohi					GMT+09:00				JST
+Mata-Utu				GMT+12:00				TVT
+Matale					GMT+05:30				IST
+Matamoros				GMT-06:00				CST
+Mataram					GMT+08:00				SST
+Mathura					GMT+05:30				IST
+Mazari Sharif			GMT+04:30				AFT
+Mazatlan				GMT-07:00				CST
+Mbabane					GMT+02:00				SAST
+Mbour					GMT+00:00				GMT
+Mdina					GMT+01:00				WEST
+Mecca					GMT+03:00				AST
+Medan					GMT+07:00				ICT
+Medellin				GMT-05:00				PET
+Medina					GMT+03:00				AST
+Melaque					GMT-06:00				CST
+Melbourne				GMT+10:00				AEST
+Melbourne				GMT-05:00				EST
+Memphis					GMT-06:00				CST
+Mendoza					GMT-03:00				ART
+Menlo Park           	GMT-08:00				PST
+Merida					GMT-06:00				CST
+Mexicali				GMT-08:00				PST
+Mexico City				GMT-06:00				CST
+Miami					GMT-05:00				EST
+Milan					GMT+01:00				WEST
+Mill Valley           	GMT-08:00				PST
+Milwaukee				GMT-06:00				CST
+Minneapolis				GMT-06:00				CST
+Minsk					GMT+03:00				FET
+Miramar					GMT-05:00				EST
+Mission					GMT-08:00				PST
+Mississauga				GMT-05:00				EST
+Mo						GMT+01:00				WEST
+Mobile					GMT-06:00				CST
+Mogadishu				GMT+03:00				EAT
+Molalla					GMT-08:00				PST
+Monaco					GMT+01:00				CET
+Moncton    				GMT-04:00				AST
+Monrovia				GMT+00:00				GMT
+Monte Carlo				GMT+01:00				CET
+Monterey   				GMT-08:00				PST
+Monterrey				GMT-06:00				CST
+Montevideo				GMT-03:00				UYT
+Montgomery    			GMT-06:00				CST
+Montgomery    			GMT-06:00				CST
+Montpelier    			GMT-05:00				EST
+Montpellier				GMT+01:00				CET
+Montpeyroux				GMT+01:00				CET
+Montreal    			GMT-05:00				EST
+Moroni					GMT+03:00				EAT
+Moscow					GMT+04:00				MSK
+Motul					GMT-06:00				CST
+Mount Hagen				GMT+10:00				ChST
+Mount Shasta City      	GMT-08:00				PST
+Mountain View        	GMT-08:00				PST
+Mudumalai				GMT+05:30				IST
+Mukachevo				GMT+02:00				EET
+Multan					GMT+05:00				PKT
+Mumbai					GMT+05:30				IST
+Munich					GMT+01:00				WEST
+Munnar					GMT+05:30				IST
+Murmansk				GMT+04:00				MSK
+Murom					GMT+04:00				MSK
+Murree					GMT+05:00				PKT
+Muscat					GMT+04:00				GST
+Myrtle Beach    		GMT-05:00				EST
+Mysore					GMT+05:30				IST
+N'Djamena				GMT+01:00				WAT
+Nadiad					GMT+05:30				IST
+Nagasaki				GMT+09:00				JST
+Nagoya					GMT+09:00				JST
+Nagpur					GMT+05:30				IST
+Naha					GMT+09:00				JST
+Nairobi					GMT+03:00				EAT
+Nakhodka				GMT+11:00				VLAT
+Nanaimo    				GMT-08:00				PST
+Nanjing					GMT+08:00				CST
+Nantes					GMT+01:00				CET
+Napier					GMT+12:00				NZST
+Naples					GMT+01:00				WEST
+Narvik					GMT+01:00				WEST
+Nashville    			GMT-06:00				CST
+Nassau					GMT-05:00				EST
+Navasota    			GMT-06:00				CST
+Navi Mumbai				GMT+05:30				IST
+Negombo					GMT+05:30				IST
+Neuquen					GMT-03:00				ART
+New Delhi				GMT+05:30				IST
+New Orleans    			GMT-06:00				CST
+New Ross				GMT+00:00				GMT
+New Westminster    		GMT-08:00				PST
+New York    			GMT-05:00				EST
+Newark    				GMT-05:00				EST
+Newcastle				GMT+10:00				AEST
+Newcastle upon Tyne		GMT+00:00				GMT
+Newport					GMT+00:00				GMT
+Niagara Falls    		GMT-05:00				EST
+Niagara Falls    		GMT-05:00				EST
+Niamey					GMT+01:00				WAT
+Nice					GMT+01:00				CET
+Nicosia					GMT+02:00				EET
+Niigata					GMT+09:00				JST
+Nikolaev				GMT+02:00				EET
+Nimes					GMT+01:00				CET
+Ningbo					GMT+08:00				CST
+Nizhniy Novgorod		GMT+04:00				MSK
+Nogales					GMT-07:00				MST
+Nome    				GMT-09:00				AKST
+Norfolk    				GMT-05:00				EST
+North Bay    			GMT-05:00				EST
+North Bend				GMT-08:00				PST
+North Ryde				GMT+10:00				AEST
+Norwich					GMT+00:00				GMT
+Nouakchott				GMT+00:00				GMT
+Noumea					GMT+11:00				NCT
+Novgorod				GMT+04:00				MSK
+Novorossiysk			GMT+04:00				MSK
+Novosibirsk				GMT+07:00				NOVT
+Nuevo Laredo			GMT-06:00				CST
+Nuku'alofa				GMT+13:00				TOT
+Nurnberg				GMT+01:00				WEST
+Nuuk					GMT-03:00				WGT
+Odense					GMT+01:00				CET
+Odessa					GMT+02:00				EET
+Ohrid					GMT+01:00				CET
+Ojinaga					GMT-06:00				CST
+Okara					GMT+05:00				PKT
+Okha					GMT+11:00				VLAT
+Okhotsk					GMT+11:00				VLAT
+Okinawa					GMT+09:00				JST
+Oklahoma City    		GMT-06:00				CST
+Olanchito				GMT-06:00				CST
+Olinda					GMT-03:00				ART
+Olympia    				GMT-08:00				PST
+Omaha    				GMT-06:00				CST
+Omsk					GMT+07:00				NOVT
+Onitsha					GMT+01:00				WAT
+Ootacamund				GMT+05:30				IST
+Oradea					GMT+02:00				EET
+Orange					GMT+10:00				AEST
+Oranjestad				GMT-04:00				AST
+Orlando    				GMT-05:00				EST
+Osaka					GMT+09:00				JST
+Oshawa    				GMT-05:00				EST
+Oslo					GMT+01:00				WEST
+Ostrov					GMT+04:00				MSK
+Ottawa    				GMT-05:00				EST
+Ouagadougou				GMT+00:00				GMT
+Oulu					GMT+02:00				EET
+Oviedo					GMT+01:00				CET
+Padang					GMT+07:00				ICT
+Palembang				GMT+07:00				ICT
+Palikir					GMT+11:00				PONT
+Palma					GMT+01:00				CET
+Palmas					GMT-03:00				BRST
+Palo Alto          		GMT-08:00				PST
+Panaji					GMT+05:30				IST
+Panama City				GMT-05:00				PET
+Papeete					GMT-10:00				HST
+Paramaribo				GMT-03:00				ART
+Paraparaumu				GMT+12:00				NZST
+Paris					GMT+01:00				CET
+Parsippany    			GMT-05:00				EST
+Patna					GMT+05:30				IST
+Patras					GMT+02:00				EET
+Pearl    				GMT-06:00				CST
+Pedro Juan Caballero	GMT-04:00				PYT
+Pensacola    			GMT-06:00				CST
+Penza					GMT+04:00				MSK
+Perm					GMT+06:00				YEKT
+Perth					GMT+08:00				AEST
+Peshawar				GMT+05:00				PKT
+Peterhof				GMT+04:00				MSK
+Petropavlovsk			GMT+12:00				ANAT
+Petropolis				GMT-03:00				BRST
+Philadelphia    		GMT-05:00				EST
+Philipsburg				GMT-04:00				AST
+Phnom Penh				GMT+07:00				ICT
+Phoenix    				GMT-07:00				MST
+Phuket					GMT+07:00				ICT
+Pickering    			GMT-05:00				EST
+Piedras Negras			GMT-06:00				CST
+Pierre    				GMT-06:00				CST
+Piestany				GMT+01:00				CET
+Pirot					GMT+01:00				CET
+Pisa					GMT+01:00				WEST
+Pittsburgh    			GMT-05:00				EST
+Piura					GMT-05:00				PET
+Playa del Carmen		GMT-06:00				CST
+Plymouth				GMT+00:00				GMT
+Podgorica				GMT+01:00				CET
+Point Pleasant Beach	GMT-05:00				EST
+Polonnaruwa				GMT+05:30				IST
+Pomalaa					GMT+08:00				SST
+Ponta Delgada			GMT-01:00				AZOST
+Poole					GMT+00:00				GMT
+Porbandar				GMT+05:30				IST
+Porirua					GMT+12:00				NZST
+Port Angeles    		GMT-08:00				PST
+Port Arthur				GMT+10:00				AEDT
+Port Elizabeth			GMT+02:00				SAST
+Port Harcourt			GMT+01:00				WAT
+Port Hedland			GMT+08:00				AEST
+Port Louis				GMT+04:00				MUT
+Port Moresby			GMT+10:00				ChST
+Port Orange    			GMT-05:00				EST
+Port Vila				GMT+11:00				VUT
+Port of Spain			GMT-04:00				AST
+Port-au-Prince			GMT-05:00				EST
+Portland				GMT-08:00				PST
+Porto					GMT+00:00				GMT
+Porto Alegre			GMT-03:00				BRST
+Porto Novo				GMT+01:00				WAT
+Portsmouth				GMT+00:00				GMT
+Posadas					GMT-03:00				ART
+Prague					GMT+01:00				CET
+Praia					GMT-01:00				CVT
+Prievidza				GMT+01:00				CET
+Prince George    		GMT-08:00				PST
+Princeton    			GMT-05:00				EST
+Pristina				GMT+01:00				CET
+Progreso				GMT-06:00				CST
+Pskov					GMT+04:00				MSK
+Puebla					GMT-06:00				CST
+Puerto Ayora			GMT-06:00				CST
+Puerto Baquerizo Moreno	GMT-06:00				CST
+Puerto Penasco			GMT-07:00				MST
+Puerto Plata			GMT-04:00				AST
+Puerto Vallarta			GMT-06:00				CST
+Pune					GMT+05:30				IST
+Puri					GMT+05:30				IST
+Puttgarden				GMT+01:00				WEST
+Pyongyang				GMT+09:00				JST
+Qatif					GMT+03:00				AST
+Qingdao					GMT+08:00				CST
+Quartzsite				GMT-07:00				MST
+Quebec City				GMT-05:00				EST
+Quetta					GMT+05:00				PKT
+Quezaltenango			GMT-06:00				AST
+Quito					GMT-05:00				PET
+Rabat					GMT+00:00				WET
+Rahim Yar Khan			GMT+05:00				PKT
+Rajahmundry				GMT+05:30				IST
+Raleigh					GMT-05:00				EST
+Ramstein				GMT+01:00				WEST
+Ranchi					GMT+05:30				IST
+Rangoon					GMT+06:30				MMT
+Ras Al Khaimah			GMT+04:00				GST
+Rawson					GMT-03:00				ART
+Reading					GMT+00:00				GMT
+Recife					GMT-03:00				ART
+Red Deer				GMT-07:00				MST
+Redmond					GMT-08:00				PST
+Regina					GMT-06:00				CST
+Reims					GMT+01:00				CET
+Rennes					GMT+01:00				CET
+Reno					GMT-08:00				PST
+Revelstoke				GMT-08:00				PST
+Reykjavik				GMT+00:00				GMT
+Reynosa					GMT-06:00				CST
+Rhodes					GMT+02:00				EET
+Richmond				GMT-05:00				EST
+Richmond				GMT-05:00				EST
+Riga					GMT+02:00				EET
+Rio Cuarto				GMT-03:00				ART
+Rio Gallegos			GMT-03:00				ART
+Rio Rancho				GMT-07:00				MST
+Rio de Janeiro			GMT-03:00				BRST
+Rivera					GMT-03:00				UYT
+Riverton				GMT-07:00				MST
+Riyadh					GMT+03:00				AST
+Road Town				GMT-04:00				AST
+Rodby					GMT+01:00				WEST
+Rome					GMT+01:00				WEST
+Rosario					GMT-03:00				ART
+Roseau					GMT-04:00				AST
+Rostock					GMT+01:00				WEST
+Rostov na Donu			GMT+04:00				MSK
+Rotterdam				GMT+01:00				WEST
+Rovaniemi				GMT+02:00				EET
+Russell Springs			GMT-06:00				CST
+Ryazan					GMT+04:00				MSK
+Rybinsk					GMT+04:00				MSK
+Sacramento				GMT-08:00				PST
+Saint George's			GMT-04:00				AST
+Saint John				GMT-04:00				AST
+Saint-Denis				GMT+04:00				GST
+Saint-Pierre			GMT-03:00				PMST
+Saipan					GMT+10:00				ChST
+Salem					GMT-08:00				PST
+Salt Lake City			GMT-07:00				MST
+Salta					GMT-03:00				ART
+Salto					GMT-03:00				UYT
+Salvador				GMT-03:00				BRST
+Salzburg				GMT+01:00				WEST
+Samara					GMT+04:00				MSK
+Samsun					GMT+02:00				EET
+San Antonio				GMT-06:00				CST
+San Brun				GMT-08:00				PST
+San Carlos				GMT-03:00				UYT
+San Carlos				GMT-07:00				MST
+San Diego				GMT-08:00				PST
+San Francisco          	GMT-08:00				PST
+San Isidro				GMT-06:00				CST
+San Jose				GMT-06:00				CST
+San Jose           		GMT-08:00				PST
+San Juan				GMT-04:00				AST
+San Juan				GMT-03:00				ART
+San Lorenzo				GMT-03:00				ART
+San Luis				GMT-03:00				ART
+San Luis Obispo    		GMT-08:00				PST
+San Marino				GMT+01:00				WEST
+San Mateo      			GMT-08:00				PST
+San Pedro Sula			GMT-06:00				CST
+San Salvador			GMT-06:00				CST
+San Sebastian			GMT+01:00				CET
+San Sebastian del Oeste	GMT-06:00				CST
+Sanaa					GMT+03:00				AST
+Santa Ana				GMT-06:00				CST
+Santa Clara				GMT-05:00				CST
+Santa Clara    			GMT-08:00				PST
+Santa Cruz				GMT+08:00				SST
+Santa Cruz de Tenerife	GMT+00:00				GMT
+Santa Fe				GMT-03:00				ART
+Santa Fe    			GMT-07:00				MST
+Santa Rosa				GMT-06:00				CST
+Santa Rosa				GMT-03:00				ART
+Santarem				GMT-03:00				ART
+Santiago				GMT-04:00				CLT
+Santiago				GMT-06:00				CST
+Santiago de Cuba		GMT-05:00				CST
+Santiago de los Caballeros		GMT-04:00		AST
+Santo Domingo			GMT-04:00				AST
+Sanxiang				GMT+08:00				CST
+Sao Jose do Rio Preto	GMT-03:00				BRST
+Sao Paulo				GMT-03:00				BRST
+Sao Tome				GMT+00:00				GMT
+Sapporo					GMT+09:00				JST
+Sarajevo				GMT+01:00				CET
+Saransk					GMT+04:00				MSK
+Saskatoon    			GMT-06:00				CST
+Saxonburg    			GMT-05:00				EST
+Schaffhausen			GMT+01:00				WEST
+Schluechtern			GMT+01:00				WEST
+Seattle    				GMT-08:00				PST
+Secunderabad			GMT+05:30				IST
+Semarang				GMT+07:00				ICT
+Sendai					GMT+09:00				JST
+Seoul					GMT+09:00				KST
+Sergiev Posad			GMT+04:00				MSK
+Sete					GMT+01:00				CET
+Sevastopol				GMT+02:00				EET
+Severodonetsk			GMT+02:00				EET
+Sevilla					GMT+01:00				CET
+Shanghai				GMT+08:00				CST
+Shannon					GMT+00:00				GMT
+Sharjah					GMT+04:00				GST
+Sharm El Sheikh			GMT+02:00				EET
+Sheffield				GMT+00:00				GMT
+Shekou					GMT+08:00				CST
+Shenyang				GMT+08:00				CST
+Shenzhen				GMT+08:00				CST
+Shijiazhuang			GMT+08:00				CST
+Shikarpur				GMT+05:00				PKT
+Shimla					GMT+05:30				IST
+Shiraz					GMT+03:30				IRST
+Sialkot					GMT+05:00				PKT
+Sibiu					GMT+02:00				EET
+Siem Reap				GMT+07:00				ICT
+Sigiriya				GMT+05:30				IST
+Silang					GMT+08:00				SST
+Simatai					GMT+08:00				CST
+Simferopol				GMT+02:00				EET
+Sines					GMT+00:00				GMT
+Singapore				GMT+08:00				SST
+Sittard					GMT+01:00				WEST
+Sivakasi				GMT+05:30				IST
+Skopje					GMT+01:00				CET
+Sligo					GMT+00:00				GMT
+Sliven					GMT+02:00				EET
+Sneek					GMT+01:00				WEST
+Sochi					GMT+04:00				MSK
+Sofia					GMT+02:00				EET
+Solovki					GMT+04:00				MSK
+Songkhla				GMT+07:00				ICT
+South Jordan    		GMT-07:00				MST
+South Tarawa			GMT+12:00				TVT
+Spijkenisse				GMT+01:00				WEST
+Spokane    				GMT-08:00				PST
+St. Catharines    		GMT-05:00				EST
+St. John's				GMT-04:00				AST
+St. John's    			GMT-03:30				NST
+St. Louis    			GMT-06:00				CST
+St. Paul    			GMT-06:00				CST
+St. Petersburg			GMT+04:00				MSK
+Stamford    			GMT-05:00				EST
+Stanley					GMT-03:00				FKT
+Stavanger				GMT+01:00				WEST
+Stavropol				GMT+04:00				MSK
+Steinkjer				GMT+01:00				WEST
+Stenungsund				GMT+01:00				WEST
+Stockholm				GMT+01:00				WEST
+Strasbourg				GMT+01:00				CET
+Stuttgart				GMT+01:00				WEST
+Suifenhe				GMT+08:00				CST
+Sulaimaniya				GMT+03:00				AST
+Sullana					GMT-05:00				PET
+Sundsvall				GMT+01:00				WEST
+Sunnyvale           			GMT-08:00				PST
+Surabaya				GMT+07:00				ICT
+Surat					GMT+05:30				IST
+Surprise    			GMT-07:00				MST
+Suva					GMT+12:00				FJT
+Suzdal					GMT+04:00				MSK
+Suzhou					GMT+08:00				CST
+Swansea					GMT+00:00				GMT
+Swindon					GMT+00:00				GMT
+Sydney					GMT+10:00				AEST
+Sydney    				GMT-04:00				AST
+Sylhet					GMT+06:00				BST
+Syracuse    			GMT-05:00				EST
+Szombathely				GMT+01:00				CET
+Tacoma    				GMT-08:00				PST
+Tacuarembo				GMT-03:00				UYT
+Taganrog				GMT+04:00				MSK
+Taguig					GMT+08:00				SST
+Taian					GMT+08:00				CST
+Taichung				GMT+08:00				CST
+Taif					GMT+03:00				AST
+Taiohae					GMT-09:30				MART
+Taipei					GMT+08:00				CST
+Taiyuan					GMT+08:00				CST
+Taiz					GMT+03:00				AST
+Takab					GMT+03:30				IRST
+Takrouna				GMT+01:00				WAT
+Tallinn					GMT+02:00				EET
+Tampa    				GMT-05:00				EST
+Tamuning				GMT+10:00				ChST
+Tangail					GMT+06:00				BST
+Tanggu					GMT+08:00				CST
+Tangshan				GMT+08:00				CST
+Tanjay City				GMT+08:00				SST
+Tashkent				GMT+05:00				TMT
+Tbilisi					GMT+04:00				GET
+Tegucigalpa				GMT-06:00				CST
+Tehran					GMT+03:30				IRST
+Tel Aviv				GMT+02:00				IST
+Telluride    			GMT-07:00				MST
+Tepic					GMT-07:00				CST
+Thaton					GMT+06:30				MMT
+The Hague				GMT+01:00				WEST
+Thessaloniki			GMT+02:00				EET
+Thies					GMT+00:00				GMT
+Thimphu					GMT+06:00				ALMT
+Thiruvananthapuram		GMT+05:30				IST
+Tianjin					GMT+08:00				CST
+Tijuana					GMT-08:00				PST
+Timisoara				GMT+02:00				EET
+Tirana					GMT+01:00				WEST
+Tiraspol				GMT+02:00				EET
+Tiruchirapalli			GMT+05:30				IST
+Tizimin					GMT-06:00				CST
+Toalmas					GMT+01:00				CET
+Tokyo					GMT+09:00				JST
+Toledo    				GMT-05:00				EST
+Toluca de Lerdo			GMT-06:00				CST
+Tomsk					GMT+07:00				NOVT
+Toowoomba				GMT+10:00				AEST
+Toronto    				GMT-05:00				EST
+Torshavn				GMT+00:00				GMT
+Toulon					GMT+01:00				CET
+Toulouse				GMT+01:00				CET
+Tours					GMT+01:00				CET
+Townsville				GMT+10:00				AEST
+Trelleborg				GMT+01:00				WEST
+Trier					GMT+01:00				WEST
+Trieste					GMT+01:00				WEST
+Tripoli					GMT+02:00				EET
+Tromso					GMT+01:00				WEST
+Trondheim				GMT+01:00				WEST
+Trujillo				GMT-05:00				PET
+Tshwane					GMT+02:00				SAST
+Tuapse					GMT+04:00				MSK
+Tucson    				GMT-07:00				MST
+Tucuman					GMT-03:00				ART
+Tula					GMT+04:00				MSK
+Tulcea					GMT+02:00				EET
+Tulsa    				GMT-06:00				CST
+Tunis					GMT+01:00				WAT
+Turin					GMT+01:00				WEST
+Turku					GMT+02:00				EET
+Tuticorin				GMT+05:30				IST
+Tuzla					GMT+01:00				CET
+Tver'					GMT+04:00				MSK
+Ubon Ratchathani		GMT+07:00				ICT
+Ubud					GMT+08:00				SST
+Udon Thani				GMT+07:00				ICT
+Ufa						GMT+06:00				YEKT
+Ulaanbaatar				GMT+08:00				ULAT
+Ulan-Ude				GMT+09:00				IRKT
+Upper Hutt				GMT+12:00				NZST
+Uppsala					GMT+01:00				WEST
+Urumqi					GMT+08:00				CST
+Ushuaia					GMT-03:00				ART
+Utrecht					GMT+01:00				WEST
+Uzhhorod				GMT+02:00				EET
+Vaasa					GMT+02:00				EET
+Vadodara				GMT+05:30				IST
+Vaduz					GMT+01:00				WEST
+Valaam					GMT+04:00				MSK
+Valdivia				GMT-04:00				CLT
+Valencia				GMT+01:00				CET
+Valladolid				GMT+01:00				CET
+Vallauris				GMT+01:00				CET
+Valletta				GMT+01:00				WEST
+Vancouver    			GMT-08:00				PST
+Vardo					GMT+01:00				WEST
+Varna					GMT+02:00				EET
+Vatican City			GMT+01:00				WEST
+Velikiye Luki			GMT+04:00				MSK
+Venice					GMT+01:00				WEST
+Veracruz				GMT-06:00				CST
+Verona					GMT+01:00				WEST
+Vevey					GMT+01:00				WEST
+Viana do Castello		GMT+00:00				GMT
+Victoria				GMT+04:00				GST
+Victoria				GMT+01:00				WEST
+Victoria    			GMT-08:00				PST
+Vidin					GMT+02:00				EET
+Viedma					GMT-03:00				ART
+Vienna					GMT+01:00				WEST
+Vienna    				GMT-05:00				EST
+Vientiane				GMT+07:00				ICT
+Vila Real				GMT+00:00				GMT
+Vilnius					GMT+02:00				EET
+Visby					GMT+01:00				WEST
+Vishakhapatnam			GMT+05:30				IST
+Vitoria					GMT+01:00				CET
+Vizianagaram			GMT+05:30				IST
+Vladimir				GMT+04:00				MSK
+Vladivostok				GMT+11:00				VLAT
+Volgograd				GMT+04:00				MSK
+Vologda					GMT+04:00				MSK
+Volokolamsk				GMT+04:00				MSK
+Voronezh				GMT+04:00				MSK
+Votkinsk				GMT+04:00				MSK
+Waikanae				GMT+12:00				NZST
+Wailua    				GMT-10:00				HST
+Waimea    				GMT-10:00				HST
+Waingapu				GMT+08:00				SST
+Wakkana					GMT+09:00				JST
+Warrnambool				GMT+10:00				AEST
+Warsaw					GMT+01:00				CET
+Washington DC			GMT-05:00				EST
+Waterford				GMT+00:00				GMT
+Waterloo    			GMT-05:00				EST
+Wellington				GMT+12:00				NZST
+West Wendover			GMT-07:00				MST
+Westford    			GMT-05:00 				EST
+Whistler    			GMT-08:00				PST
+White Rock    			GMT-08:00				PST
+Whitehorse    			GMT-08:00				PST
+Wichita    				GMT-06:00				CST
+Willemstad				GMT-04:00				AST
+Windhoek				GMT+01:00				WAST
+Window Rock    			GMT-07:00				MST
+Windsor    				GMT-05:00				EST
+Winnipeg    			GMT-06:00				CST
+Winston-Salem    		GMT-05:00				EST
+Wodonga					GMT+10:00				AEST
+Wollongong				GMT+10:00				AEST
+Wuhan					GMT+08:00				CST
+Xiamen					GMT+08:00				CST
+Xian					GMT+08:00				CST
+Yakutsk					GMT+10:00				YAKT
+Yalta					GMT+02:00				EET
+Yamoussoukro			GMT+00:00				GMT
+Yantai					GMT+08:00				CST
+Yaounde					GMT+01:00				WAT
+Yaroslavl				GMT+04:00				MSK
+Yasok					GMT+05:45				NPT
+Yawnghwe				GMT+06:30				MMT
+Yazd					GMT+03:30				IRST
+Yellowknife    			GMT-07:00				MST
+Yerevan					GMT+04:00				AMT
+Yevpatoriya				GMT+02:00				EET
+Yigo					GMT+10:00				ChST
+Yokohama				GMT+09:00				JST
+Yokosuka				GMT+09:00				JST
+Yuzhno-Sakhalinsk		GMT+11:00				VLAT
+Zaandam					GMT+01:00				WEST
+Zagreb					GMT+01:00				CET
+Zakynthos				GMT+02:00				EET
+Zaporozhye				GMT+02:00				EET
+Zaragoza				GMT+01:00				CET
+Zaysan					GMT+06:00				ALMT
+Zhengzhou				GMT+08:00				CST
+Zhongshan				GMT+08:00				CST
+Zihuatanejo				GMT-06:00				CST
+Zupanja					GMT+01:00				CET
+Zurich					GMT+01:00				WEST
