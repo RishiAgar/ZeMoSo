@@ -140,6 +140,8 @@ public class p220
             System.out.println(i +" " + b[i].quad+" "+Math.pow(2, i) + "  " + b[i].x + " , " + b[i].y);
             i++;
         }
+        //a[39].x -=51000+136;
+        //a[39].y += 64000;
         i=40;
         long maxSteps = (long) Math.pow(10,12);
         maxSteps -= (long)Math.pow(2, i-1);
@@ -163,6 +165,7 @@ public class p220
             }
             pos.x +=b[i].x;
             pos.y += b[i].y;
+            //139776,963904
             if( maxSteps == 0 )
                 break;
         }
