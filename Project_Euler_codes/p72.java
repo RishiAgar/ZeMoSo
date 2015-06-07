@@ -23,7 +23,6 @@ public class p72 {
 				}
 			}
 			sum += arr[i];
-			System.out.println( i + " " + arr[i]);
 		}
 		System.out.println(sum);
 	}
