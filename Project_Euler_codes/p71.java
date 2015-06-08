@@ -1,32 +1,43 @@
 public class p71 {
 	public static void main(String[] args) {
 		boolean flag;
-		int k, max = 1000001;
+		int k, num = 0, max = 1000001;
 		int arr[] = new int[max];
 		prime obj = new prime(max);
 		obj.prime_func();
-		for( int i=0; i<max; i++) {
-			arr[i] = 1;
-		}
-		for( int i = 2; i<max; i++) {
-			for( int j = 2; j<=(i*3)/7 ; j++) {
-				k = 0;
-				flag = false;
-				while(true) {
-					if( obj.prime[k] > j) {
-						break;
-					}
-					if( i % obj.prime[k] == 0 && i % obj.prime[k] == 0) {
-						flag = true;
-						break;
-					}
-					k++;
+		double max_limit = (double)3/(double)7;
+		double ans_max = 0;
+		for( int i = max-1; i>=0; i--) {
+			for( int j = i/2; j>=1; j-- ) {
+				double value = (double)j/i;
+				if( value < ans_max) {
+					break;
 				}
+				if(( i % 2 == 0 && j % 2 == 0) || (i % 3 == 0 && j % 3 == 0)) {
+					continue;
+				}
+				flag = checkGCD(i, j);
 				if(flag) {
-					arr[i]++;
+					if( value < max_limit) {
+						if( value > ans_max) {
+							ans_max = value;
+							num = j;
+							System.out.println( i + " " + num);
+						}
+						break;
+					}
 				}
 			}
-			System.out.println( i + " " + arr[i]);
 		}
+		System.out.println(num);
+	}
+
+	public static boolean checkGCD( int a, int b) {
+		while (b != 0) {
+	        int c = a % b;
+	        a = b;
+	        b = c;
+	    }
+	    return a == 1;
 	}
 }
