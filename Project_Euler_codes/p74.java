@@ -7,20 +7,13 @@ public class p74 {
 		fact[0] = 1;
 		for( int i=1; i<10; i++) {
 			fact[i] = fact[i-1] * i;
-			// System.out.println(fact[i]);
 		}
 		for( int i = 11; i<max; i++) {
 			int count_chain = 1;
 			Map<Integer, Byte> map = new HashMap<>();
 			sum = i;
 			while(true) {
-				// if( i == 999836) {
-				// 	System.out.println( i + "  " + sum + "  " + count_chain);
-				// }
 				map.put( sum, (byte)0);
-				// if( i == 26) {
-				// 	System.out.println(sum);
-				// }
 				sum = getSum(sum, fact);
 				if( count_chain > 62 || map.containsKey(sum)) {
 					break;
@@ -29,7 +22,6 @@ public class p74 {
 				
 			}
 			if( count_chain == 60) {
-				// System.out.println(i);
 				count++;
 			}
 		}
