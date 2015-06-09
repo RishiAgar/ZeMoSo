@@ -6,7 +6,6 @@ public class p73 {
 			int lower = (int)Math.floor((float)i/3) + 1;
 			for( int j = lower; j<upper; j++) {
 				if( isCoPrime(i, j)) {
-					// System.out.println(j + " " + i + " " + (float)j/i);
 					count++;
 				}
 			}
