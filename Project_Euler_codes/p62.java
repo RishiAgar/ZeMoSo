@@ -2,9 +2,9 @@ import java.util.*;
 public class p62 {
 	public static void main(String[] args) {
 		int itr;
-		long pro, sorted, ans_sorted = 0, max = 1000000L;
+		long pro, sorted, ans_sorted = 0;
 		Map<Long, Integer> map = new HashMap<>();
-		for( long i=1; i<max; i++) {
+		for( long i=1; ; i++) {
 			pro = i*i*i;
 			sorted = sort(pro);
 			itr = 1;
@@ -19,7 +19,7 @@ public class p62 {
 				break;
 			}
 		}
-		for( long i=0; i<max; i++) {
+		for( long i=0; ; i++) {
 			pro = i*i*i;
 			sorted = sort(pro);
 			if( sorted == ans_sorted) {
